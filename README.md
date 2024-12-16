@@ -13,7 +13,7 @@ Welcome to my GitHub repository! This is a curated collection of my PhD research
 Here are some of my published and in-progress research papers:
 | Title | Published In | Summary |
 |-------|--------------|---------|
-| [Paper 1 Title](./research/paper_1.md) | Conference X 2024 | Key findings of the paper on nonparametric learning. |
+| [Paper 1 Title](./research/papers.md) | Conference X 2024 | Key findings of the paper on nonparametric learning. |
 | [Paper 2 Title](./research/paper_2.md) | Journal Y 2023 | Advances in few-shot segmentation. |
 | [Summary of All Papers](./research/summary_papers.md) | — | Overview of all research contributions. |
 
