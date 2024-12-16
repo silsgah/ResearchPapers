@@ -6,7 +6,14 @@ Welcome to my GitHub repository! This is a curated collection of my PhD research
 - 📚 **PhD Research Papers**: A repository of my published papers, summaries, and key findings.
 - 🔬 **ML Projects**: Hands-on projects demonstrating applications of ML techniques.
 - 🎓 **Portfolio**: A showcase of my academic and professional achievements.
-
+---
+## 📄 2024
+| Title | Venue | PDF | CODE |
+| :-----|:-----:|:---:|:----:|
+| A Strong Baseline for Generalized Few-Shot Semantic Segmentation | CVPR | [PDF](https://arxiv.org/abs/2211.14126) | [CODE](https://github.com/sinahmr/DIaM)|
+| Rethinking Semantic Segmentation: A Prototype View | CVPR | PDF(https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Rethinking_Semantic_Segmentation_A_Prototype_View_CVPR_2022_paper.pdf) | [CODE] (https://github.com/sinahmr/DIaM)
+| Few Shot Semantic Segmentation: a review of methodologies and open challenges | arXiv | [PDF](https://arxiv.org/pdf/2304.05832.pdf) | - |
+| Elimination of Non-Novel Segments at Multi-Scale for Few-Shot Segmentation | WACV | [PDF](https://arxiv.org/abs/2211.02300) | - |
 ---
 ## 📄 2023
 | Title | Venue | PDF | CODE |
@@ -14,6 +21,8 @@ Welcome to my GitHub repository! This is a curated collection of my PhD research
 | A Strong Baseline for Generalized Few-Shot Semantic Segmentation | CVPR | [PDF](https://arxiv.org/abs/2211.14126) | [CODE](https://github.com/sinahmr/DIaM)|
 | Few Shot Semantic Segmentation: a review of methodologies and open challenges | arXiv | [PDF](https://arxiv.org/pdf/2304.05832.pdf) | - |
 | Elimination of Non-Novel Segments at Multi-Scale for Few-Shot Segmentation | WACV | [PDF](https://arxiv.org/abs/2211.02300) | - |
+
+---
 
 ## 📄 Research Papers
 Here are some of my published and in-progress research papers:
