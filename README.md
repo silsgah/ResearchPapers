@@ -11,7 +11,7 @@ Welcome to my GitHub repository! This is a curated collection of my PhD research
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
 | A Strong Baseline for Generalized Few-Shot Semantic Segmentation | CVPR | [PDF](https://arxiv.org/abs/2211.14126) | [CODE](https://github.com/sinahmr/DIaM)|
-| Rethinking Semantic Segmentation: A Prototype View | CVPR | [PDF] (https://arxiv.org/abs/2203.15102) | [CODE] (https://github.com/sinahmr/DIaM)
+| Rethinking Semantic Segmentation: A Prototype View | CVPR | [PDF](https://arxiv.org/abs/2203.15102) | [CODE](https://github.com/sinahmr/DIaM)|
 | Few Shot Semantic Segmentation: a review of methodologies and open challenges | arXiv | [PDF](https://arxiv.org/pdf/2304.05832.pdf) | - |
 | Elimination of Non-Novel Segments at Multi-Scale for Few-Shot Segmentation | WACV | [PDF](https://arxiv.org/abs/2211.02300) | - |
 ---
